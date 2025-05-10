@@ -174,3 +174,47 @@ Unify team vision through shared visuals
 
 In your AirBnB-style booking system, this clarity ensures smoother collaboration and ultimately leads to a more intuitive user experience.
 
+# Real-World Scenario: Wireframing Detects Usability Issues
+
+🏨 Project Context: Booking Platform (Airbnb-Style)
+During the early planning phase of a property booking platform, the design team created a low-fidelity wireframe for the checkout page. The wireframe included the booking summary, date selection, payment form, and the “Confirm Booking” button.
+
+🚩 Identified Usability Issue
+While reviewing the wireframe, the UX designer and product owner noticed a critical flaw:
+
+The “Confirm Booking” button was placed at the very bottom of a long page filled with form fields.
+
+On mobile devices, users had to scroll extensively to reach the button, which risked confusing or frustrating them.
+
+Additionally, the price summary was placed above the form and not visible while users entered payment details — this caused a disconnect between input and confirmation.
+
+✅ Resolution Before Development
+Thanks to the wireframe:
+
+The team quickly restructured the layout:
+
+Moved the booking summary and total price to a sticky sidebar (desktop) or fixed bottom section (mobile).
+
+Placed the “Confirm Booking” button in a clearly visible, always-accessible position.
+
+The change was tested with stakeholders using a clickable prototype in Figma, and feedback confirmed that the flow felt more intuitive and efficient.
+
+🎯 Impact on the Final Product
+The final checkout page was easier to use, especially on mobile.
+
+There was a noticeable drop in form abandonment during user testing.
+
+Users appreciated being able to review price and confirm booking without unnecessary scrolling.
+
+Development moved faster since the solution was already validated before any code was written.
+
+🧩 Conclusion: The Role of Wireframing
+Wireframing played a crucial role in:
+
+Identifying flaws in layout and navigation early
+
+Preventing wasted development time
+
+Guiding a smoother, more user-friendly checkout design
+
+By allowing teams to explore structure and interaction without distractions of visual design, wireframes help ensure that usability stays at the core of every decision.
