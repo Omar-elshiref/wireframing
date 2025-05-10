@@ -86,3 +86,13 @@ Confirmation message upon successful booking
 
 🔹 Contribution: Improves user experience and supports the goals of the application.
 
+# Types of Wireframes.
+
+Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+
+High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# explain what type of wire frame in Project-Airbnb
+
+The wireframe in the Airbnb project is a high-fidelity wireframe because it is closer to the final design, including more specific layout and design elements.
+
